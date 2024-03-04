@@ -1,5 +1,4 @@
 # FortniteXboxOneArchive
-An archive of all known Fortnite XVC links for Xbox One
 
 | Season | Version | Download | 
 | :---: | ----------- | ----------- 
